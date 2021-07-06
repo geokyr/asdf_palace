@@ -13,7 +13,7 @@ CREATE TABLE `customers` (
   UNIQUE KEY `id_customers_UNIQUE` (`id_nfc`)
 ) ENGINE=InnoDB AUTO_INCREMENT=31 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
---Table emails:
+-- Table emails:
 CREATE TABLE `emails` (
   `email_address` varchar(45) NOT NULL,
   `id_nfc` int NOT NULL,
@@ -35,7 +35,7 @@ CREATE TABLE `has_access` (
   CONSTRAINT `acess_id_place` FOREIGN KEY (`id_place`) REFERENCES `places` (`id_place`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
---Table is_provided_on :
+-- Table is_provided_on :
 CREATE TABLE `is_provided_on` (
   `id_service` int NOT NULL,
   `id_place` int NOT NULL,
@@ -150,29 +150,29 @@ INSERT INTO `visit` VALUES ('2021-06-15 23:24:58','2021-06-16 23:24:58',1,1),('2
 
 -- SQL Code that was used for creating, displaying and updating the views of our database:
 
--- sales view creation:
+-- Create sales view:
 CREATE VIEW sales as
 SELECT B.service_description, COUNT(A.id_service) as sales_per_service
 FROM service_charge as A, services as B
 WHERE A.id_service = B.id_service
 GROUP BY B.service_description;
 
--- sales view display:
+-- Display sales view:
 SELECT * FROM sales;
 
--- sales view update: (the following one fails, as we'll see on the video question #8)
+-- Update sales view: (the following one fails, as we'll see on the video question #8)
 UPDATE sales 
 SET sales_per_service = 20
 WHERE service_description = 'Restaurant';
 
--- customer_details view create:
+-- Create customer_details view:
 CREATE VIEW customer_details as
 SELECT * FROM customers;
 
--- customer_details view display:
+-- Display customer_details view:
 SELECT * FROM customer_details;
 
--- customer_details view update:
+-- Update customer_details view: (the following one succeeds, as we'll see on the video question #8)
 UPDATE customer_details 
 SET first_name = 'John'
 WHERE id_nfc = 1;
