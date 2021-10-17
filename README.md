@@ -1,7 +1,7 @@
 asdf_palace
 ---------
 
-Repository for the Databases course Project.  
+Repository for the Databases course project. 
 
 Simulation of a Hotel Unit Database.  
 
