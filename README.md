@@ -1,4 +1,4 @@
-asdf_palace
+asdf-palace
 -----------
 
 Repository for the Databases course project. 
