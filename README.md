@@ -17,7 +17,7 @@ We used **[MySQL Server](https://dev.mysql.com/downloads/mysql/)** for our Datab
 * Make sure that **[MySQL Server](https://dev.mysql.com/downloads/mysql/)**, **[MySQL Workbench](https://www.mysql.com/products/workbench/)**, **[Git](https://git-scm.com/downloads)**, **[Node.js](https://nodejs.org/en/)** and **[npm](https://www.npmjs.com/package/download)** are installed.
 * Then the database will be imported:
   * Create or connect to a MySQL connection
-  * Server → Data Import → Import from Self-Contained File → Select the file [database.sql](https://github.com/geokyr/asdf-palace/blob/main/database.sql)
+  * Server → Data Import → Import from Self-Contained File → Select the file [database.sql](https://github.com/geokyr/asdf-palace/blob/main/resources/database.sql)
   * Default Target Schema → New → Select a name for the database (for example asdf_palace) → Select Dump Structure and Data → Start Import
 * Next run the following command to clone the repository:
 ```
