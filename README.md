@@ -3,18 +3,17 @@ asdf-palace
 
 Repository for the Databases course project. 
 
-Simulation of a Hotel Unit Database.  
+Simulation of a Hotel Unit Database.
 
-Managers:  
-Deligiannis Gerasimos - el18807  
-Kyriakopoulos Georgios - el18153  
-Tzelepis Serafeim - el18849
+## Managers
+* Deligiannis Gerasimos - el18807
+* Kyriakopoulos Georgios - el18153
+* Tzelepis Serafeim - el18849
 
 ## Tools
 We used **[MySQL Server](https://dev.mysql.com/downloads/mysql/)** for our Database Management System and **[MySQL Workbench](https://www.mysql.com/products/workbench/)** for a better overview and management of our database. For the user interface, we used **[JavaSciprt](https://www.javascript.com/)** and more specifically the **[React.js](https://reactjs.org/)** framework, while for our server we used the **[Node.js](https://nodejs.org/en/)** runtime together with the **[Express](http://expressjs.com/)** framework. The development was done on a **[Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)** platform and we used **[GitHub](https://github.com/)** as our version control tool and as a place to showcase our project and provide a guide to deploy our application.
 
 ## Deployment
-
 * Make sure that **[MySQL Server](https://dev.mysql.com/downloads/mysql/)**, **[MySQL Workbench](https://www.mysql.com/products/workbench/)**, **[Git](https://git-scm.com/downloads)**, **[Node.js](https://nodejs.org/en/)** and **[npm](https://www.npmjs.com/package/download)** are installed.
 * Then the database will be imported:
   * Create or connect to a MySQL connection
