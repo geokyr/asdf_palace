@@ -28,7 +28,7 @@ The development was done on a [**Windows 10**](https://www.microsoft.com/en-us/s
 ```
 npm install
 ```
-- Run the following command on the `/server` and then on the `/ui` directory, having the database service running on the background (MySQL80 Service - by default):
+- Run the following command on the `/server` and then on the `/ui` directory, having the database service running on the background (`MySQL80 Service` - by default):
 ```
 npm start
 ```
