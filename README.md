@@ -3,7 +3,7 @@
 Semester Project for the [**Databases**](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the **School of Electrical and Computer Engineering at the National Technical University of Athens**.
 
 ## Project Description
-Under the threat of COVID-19, the ASDF Palace Hotel is developing a digital solution to facilitate contactless operations within the hotel, including check-in, payment and other services. The solution will use technologies such as NFC-enabled bracelets. The project will also include the implementation of a contact tracing system to quickly identify and contain any potential outbreak. The system will be implemented as a web application, with a database backend and a user interface.
+Under the threat of COVID-19, the ASDF Palace Hotel is developing a **digital solution to facilitate contactless operations within the hotel**, including check-in, payment and other services. The solution will use technologies such as NFC-enabled bracelets. The project will also include the implementation of a contact tracing system to quickly identify and contain any potential outbreak. The system will be implemented as a **web application**, with a **database backend** and a **user interface**.
 
 ## Team Members
 - [**Deligiannis Gerasimos**](https://github.com/GerasimosDel)
