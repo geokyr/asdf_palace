@@ -1,4 +1,4 @@
-# ntua-databases
+# ece-ntua-databases
 
 Semester Project for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
