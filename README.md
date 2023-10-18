@@ -1,6 +1,6 @@
 # ece-ntua-databases
 
-Lab Assignment and Semester Project for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
+Semester Project and a Lab Assignment for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
 ## Team Members
 - [Deligiannis Gerasimos](https://github.com/GerasimosDel)
