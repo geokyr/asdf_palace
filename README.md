@@ -1,6 +1,6 @@
 # ece-ntua-databases
 
-Semester Project and Lab Assignment for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
+Semester Project and Lab Assignments for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
 ## Team Members
 - [Deligiannis Gerasimos](https://github.com/GerasimosDel)
@@ -34,6 +34,6 @@ npm start
 ```
 - The application will be loaded on the default browser at `localhost:3000`
 
-## Lab Assignment
+## Lab Assignments
 
-There was a lab assignment, which aimed to provide familiarity with Entity-Relationship Diagrams, Relational Algebra and SQL.
+There was 1 lab assignment, which aimed to provide familiarity with Entity-Relationship Diagrams, Relational Algebra and SQL.
