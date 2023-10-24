@@ -3,9 +3,9 @@
 Semester Project and Lab Assignments for the [Databases](https://www.ece.ntua.gr/en/undergraduate/courses/3123) course, during the 6th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
 ## Team Members
-- [Deligiannis Gerasimos](https://github.com/GerasimosDel)
-- [Kyriakopoulos Georgios](https://github.com/geokyr)
-- [Tzelepis Serafeim](https://github.com/sertze)
+- [Georgios Kyriakopoulos](https://github.com/geokyr)
+- [Gerasimos Deligiannis](https://github.com/GerasimosDel)
+- [Serafeim Tzelepis](https://github.com/sertze)
 
 ## Project Description
 Under the threat of COVID-19, the ASDF Palace Hotel is developing a digital solution to facilitate contactless operations within the hotel, including check-in, payment and other services. The solution will use technologies such as NFC-enabled bracelets. The project will also include the implementation of a contact tracing system to quickly identify and contain any potential outbreak. The system will be implemented as a Web Application, with a Database Backend and a User Interface.
