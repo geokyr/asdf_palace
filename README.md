@@ -26,8 +26,8 @@ The development was done on a [Windows 10](https://www.microsoft.com/en-us/softw
 - Clone this repository
 - To import the database:
   - Create or connect to a MySQL connection
-  - Server → Data Import → Import from Self-Contained File → Select the `/resources/database.sql` file
-  - Default Target Schema → New → Select a name for the database (for example asdf_palace) → Select Dump Structure and Data → Start Import
+  - Server > Data Import > Import from Self-Contained File > Select the `/resources/database.sql` file
+  - Default Target Schema > New > Select a name for the database (for example asdf_palace) > Select Dump Structure and Data > Start Import
 - Run the following command on the `/server` and then on the `/ui` directory, to download and install the `node_modules`:
 ```
 npm install
